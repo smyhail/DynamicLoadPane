@@ -1,6 +1,6 @@
 # pliki
 
-## Java
+## Java file
 1. FxmlUtils
 2. Main
 3. MainController
@@ -8,7 +8,7 @@
 5. NextController
 
 
-## FXML'e
+## FXML'e file
 1. MainFXML
 2. MenuFXML
 3. NextFXML
